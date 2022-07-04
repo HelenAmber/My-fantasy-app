@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "Lexy1",
+	"frame": {"x":0,"y":0,"w":400,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":488},
+	"sourceSize": {"w":400,"h":488}
+},
+{
+	"filename": "Lexy2",
+	"frame": {"x":400,"y":0,"w":400,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":488},
+	"sourceSize": {"w":400,"h":488}
+},
+{
+	"filename": "Lexy3",
+	"frame": {"x":800,"y":0,"w":400,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":488},
+	"sourceSize": {"w":400,"h":488}
+},
+{
+	"filename": "Lexy4",
+	"frame": {"x":1200,"y":0,"w":400,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":488},
+	"sourceSize": {"w":400,"h":488}
+},
+{
+	"filename": "Lexy5",
+	"frame": {"x":1600,"y":0,"w":400,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":488},
+	"sourceSize": {"w":400,"h":488}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "start.png",
+	"format": "RGBA8888",
+	"size": {"w":2000,"h":488},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8a8940616a36ac4c01a7766dd6b26f19:ed01fa23fca548a363287f5e1f75dc9a:a1adc19a587f5099be71dba01527eb7d$"
+}
+}
